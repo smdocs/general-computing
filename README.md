@@ -1,4 +1,4 @@
-# general-computing
+
 General Computing
 ===================
 
