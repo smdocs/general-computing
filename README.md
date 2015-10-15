@@ -9,7 +9,7 @@ General Computing
 5. [Data structures in Linux](http://cstheory.stackexchange.com/questions/19759/core-algorithms-deployed/19773?stw=2)
 
 #### Scalability
-1. [Highly Scalable Blog](http://cstheory.stackexchange.com/questions/19759/core-algorithms-deployed/19773?stw=2)
+1. [Highly Scalable Blog](https://highlyscalable.wordpress.com/)
 2. 
 #### Books on Concurrency
 1. The Art of Multiprocessor Programming by Maurice Herlihy 
