@@ -14,4 +14,5 @@ General Computing
 
 #### Books on Concurrency
 1. The Art of Multiprocessor Programming by Maurice Herlihy 
+2. [Handbook of Graph Drawing and Visualization](http://cs.brown.edu/~rt/gdhandbook/)
 
