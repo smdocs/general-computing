@@ -10,7 +10,8 @@ General Computing
 
 #### Scalability
 1. [Highly Scalable Blog](https://highlyscalable.wordpress.com/)
-2. 
+
+
 #### Books on Concurrency
 1. The Art of Multiprocessor Programming by Maurice Herlihy 
 
