@@ -12,6 +12,8 @@ General Computing
 #### Scalability
 1. [Highly Scalable Blog](https://highlyscalable.wordpress.com/)
 
+#### Libraries/Tools
+1.[Libuv - multiplatform library with a focus on asynchronous I/O, primarily developed for NodeJS](https://github.com/libuv/libuv)
 
 #### Books on Concurrency
 1. The Art of Multiprocessor Programming by Maurice Herlihy 
