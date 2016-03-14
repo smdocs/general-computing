@@ -9,9 +9,12 @@ General Computing
 5. [Data structures in Linux](http://cstheory.stackexchange.com/questions/19759/core-algorithms-deployed/19773?stw=2)
 6. [GEMS - Gossip Enabled Monitoring Service for Scalable Heterogenous Distributed Systems](http://docs.hcs.ufl.edu/pubs/GEMS2005.pdf)
 7. [Lexifi - derivatives domain language](https://www.lexifi.com/product/technology/contract-description-language#presentations)
+8. [Linda Rising - Patterns Almanac 2000](http://www.smallmemory.com/almanac/index.html)
+9. [](http://www.smallmemory.com/book.html)
 
 #### Scalability
 1. [Highly Scalable Blog](https://highlyscalable.wordpress.com/)
+
 
 #### Libraries/Tools
 1.[Libuv - multiplatform library with a focus on asynchronous I/O, primarily developed for NodeJS](https://github.com/libuv/libuv)
