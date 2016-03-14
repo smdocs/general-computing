@@ -10,7 +10,7 @@ General Computing
 6. [GEMS - Gossip Enabled Monitoring Service for Scalable Heterogenous Distributed Systems](http://docs.hcs.ufl.edu/pubs/GEMS2005.pdf)
 7. [Lexifi - derivatives domain language](https://www.lexifi.com/product/technology/contract-description-language#presentations)
 8. [Linda Rising - Patterns Almanac 2000](http://www.smallmemory.com/almanac/index.html)
-9. [](http://www.smallmemory.com/book.html)
+9. [Patterns for systems with limited memory](http://www.smallmemory.com/book.html)
 
 #### Scalability
 1. [Highly Scalable Blog](https://highlyscalable.wordpress.com/)
